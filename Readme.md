@@ -1,5 +1,7 @@
-# TravelGO-Tours and Travels using React.js
+<h1 align="center" id="title">Travel GO</h1>
 
-Developed TravelGO-Tours and Travels, a responsive website using HTML, CSS, and React.js.
-Applied responsive design for optimal layout across diverse screens, boosting accessibility.
-Enhanced project's maintainability and scalability with modular, reusable React.js code practices.
+<p align="center"><img src="https://socialify.git.ci/YUNUS-AHMED/TRAVELGO/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+<p id="description">Developed TravelGO-Tours and Travels a responsive website using HTML CSS and React.js. Applied responsive design for optimal layout across diverse screens boosting accessibility. Enhanced project's maintainability and scalability with modular reusable React.js code practices.</p>
+
+<h2>Project Screenshots:</h2>
